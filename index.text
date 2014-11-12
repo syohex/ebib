@@ -95,6 +95,7 @@ The easiest way to install Ebib is to use the [Melpa package archive](http://mel
 
 If you want to download the source, you can clone the [git repository](https://github.com/joostkremers/ebib.git) for Ebib, or get a tar ball from the [Github releases page](https://github.com/joostkremers/ebib/releases).
 
+Note: if you're upgrading from Ebib 1.x to the latest version, there are a few things to consider. See the [manual](ebib-manual.html#upgrading-from-ebib-1.x) for details.
 
 ## Support ##
 
